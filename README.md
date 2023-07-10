@@ -1,2 +1,1 @@
-# prepcourseh
-repositorio precurso de henry
+este proyecto es una prueba de como llevarlo de forma local
